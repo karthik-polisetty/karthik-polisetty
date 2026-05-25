@@ -17,7 +17,7 @@ I'm a **Data & Analytics Engineer** with **4+ years** of experience designing an
 - 📹 I share knowledge on **YouTube**, **Medium**, and **Instagram** about data engineering & analytics
 - 🌐 Check out my portfolio at **[karthikpolisetty.me](https://www.karthikpolisetty.me/)**
 - ⚡ Fun fact: I can debug a broken dbt model faster than I can decide what to eat for lunch
-- 🎯 I believe in **data quality first** — garbage in, garbage out!
+- 🎯 I believe in **data quality first** - garbage in, garbage out!
 
 ---
 
@@ -105,6 +105,6 @@ I'm always open to interesting conversations, collaboration opportunities, and d
 </p>
 
 <p align="center">
-  <i>"Data is the new oil — but unlike oil, it gets better when shared."</i><br/>
+  <i>"Data is the new oil - but unlike oil, it gets better when shared."</i><br/>
   <b>— Building pipelines that matter, one commit at a time 🚀</b>
 </p>
